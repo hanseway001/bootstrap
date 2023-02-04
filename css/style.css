@@ -6,7 +6,7 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img {
   text-decoration: none;
   font: inherit;
   vertical-align: baseline;
-  color: #000000;
+  color: #ffffff;
 }
 
 @media (min-width: 992px) {
@@ -18,4 +18,8 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+}
+main {
+  background-image: url(/images/laptop.jpg);
+  background-size: cover;
 }/*# sourceMappingURL=style.css.map */
