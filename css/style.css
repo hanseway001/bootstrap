@@ -19,9 +19,17 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img {
     font-size: 3.5rem;
   }
 }
+body {
+  height: 100vh;
+}
+
 main {
-  background-image: url(/images/laptop.jpg);
-  background-size: cover;
+  height: 100vh;
+}
+
+.backimg {
+  height: 100vh;
+  overflow: auto;
 }
 
 .icon {

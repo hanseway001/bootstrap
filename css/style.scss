@@ -11,10 +11,19 @@
     }
 }
 
+body {
+    height: 100vh;
+}
 main {
-    background-image: url(/images/laptop.jpg);
-    background-size:cover;
+    // background-image: url(/images/laptop.jpg);
+    // background-size:cover;
     // color: #ffffff;
+    height: 100vh;
+}
+
+.backimg {
+    height: 100vh;
+    overflow:auto;
 }
 
 .icon {
