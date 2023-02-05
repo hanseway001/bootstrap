@@ -22,4 +22,9 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img {
 main {
   background-image: url(/images/laptop.jpg);
   background-size: cover;
+}
+
+.icon {
+  max-width: 15px;
+  max-height: 15px;
 }/*# sourceMappingURL=style.css.map */
